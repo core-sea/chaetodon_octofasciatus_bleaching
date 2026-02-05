@@ -27,11 +27,6 @@ This repository is **data-only** and does **not** contain analysis code.
 ## Data description
 The datasets include:
 
-### *Thermal environment*
-`NOAA_SST_DHW_data.csv`
-- Sea surface temperature (SST)
-- Degree Heating Weeks (DHW)
-
 ### *Coral condition*
 - Bleaching prevalence `COREsea_LTMP_bleaching_data.csv`
 - Live coral cover (LCC) `COREsea_LTMP_LCC_data.csv`
