@@ -64,7 +64,7 @@ See the `LICENSE` file for full terms.
 If you use these data, please cite both:
 
 1. **The dataset (Zenodo DOI):**  
-   https://doi.org/10.5281/zenodo.18491089
+[   https://doi.org/10.5281/zenodo.18491089](https://doi.org/10.5281/zenodo.18491089)
 
 2. **The associated article:**  
    *Tracking coral bleaching and* Chaetodon octofasciatus *dynamics in the Gulf of Thailand during the fourth global mass bleaching event*.  
